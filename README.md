@@ -1,2 +1,1 @@
-# sl-platform
-SavaLione platform library
+# SavaLione platform C++ library
