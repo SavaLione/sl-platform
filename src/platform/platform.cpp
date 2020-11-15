@@ -1,7 +1,7 @@
 /*
  * SPDX-License-Identifier: BSD-3-Clause
  * 
- * Copyright (c) 2020 Savely Pototsky (SavaLione)
+ * Copyright (c) 2020, Savely Pototsky (SavaLione)
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
